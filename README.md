@@ -1,6 +1,5 @@
 ## Hi there! I'm SeongHoon 
-
-<h2>I am studying Github and learning the contents one by one.</h2>
+I am studying Github and learning the contents one by one.
 <br>
 
 <div align=center><h3>📚 Language</h3></div>
