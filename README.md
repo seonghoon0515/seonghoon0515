@@ -1,5 +1,4 @@
 ## Hi there! I'm SeongHoon 
-<br>
 I am studying Github and learning the contents one by one. 
 <br>
 I completed the web/app government subsidy course at Sparta Coding Club.
