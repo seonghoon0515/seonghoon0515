@@ -1,9 +1,10 @@
 ## Hi there! I'm SeongHoon 
+<br>
 I am studying Github and learning the contents one by one. 
 <br>
-My ultimate goal is to become a backend developer.
+I completed the web/app government subsidy course at Sparta Coding Club.
 <br>
-They are not reluctant to learn new terms and seek to learn.
+My ultimate goal is to become a backend developer.
 <br>
 
 <div align=center><h3>📚 Language</h3></div>
