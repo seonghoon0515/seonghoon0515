@@ -1,6 +1,8 @@
 ## Hi there! I'm SeongHoon 
-I am studying Github and learning the contents one by one.
+I am studying Github and learning the contents one by one. 
+<br>
 My ultimate goal is to become a backend developer.
+<br>
 They are not reluctant to learn new terms and seek to learn.
 <br>
 
