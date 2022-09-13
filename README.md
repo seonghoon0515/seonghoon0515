@@ -1,5 +1,8 @@
 ## Hi there! I'm SeongHoon 
 
+<h2>I am studying Github and learning the contents one by one.</h2>
+<br>
+
 <div align=center><h3>📚 Language</h3></div>
  <div align=center>   
 
@@ -26,5 +29,11 @@
   <br>
 </div>
 
+<div>
 
+
+
+
+
+</div>
 
