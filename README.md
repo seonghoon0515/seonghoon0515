@@ -1,4 +1,4 @@
-### Hi there 👋
+## Welcome! SEONGHOON's Github 
 
 <!--
 **seonghoon0515/seonghoon0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
