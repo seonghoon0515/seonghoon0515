@@ -1,5 +1,7 @@
 ## Hi there! I'm SeongHoon 
 I am studying Github and learning the contents one by one.
+My ultimate goal is to become a backend developer.
+They are not reluctant to learn new terms and seek to learn.
 <br>
 
 <div align=center><h3>📚 Language</h3></div>
