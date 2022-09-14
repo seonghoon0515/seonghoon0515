@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeongHoon's%20GitHub&animation=scaleIn&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome to my%20GitHub&animation=scaleIn&fontSize=60" />
 
 **<h3>:fire: 개발자의 소양을 갖추기 위해 깃허브에 대해서 계속 공부해 나가고 있는 신입 개발자입니다.</h3>** 
 
