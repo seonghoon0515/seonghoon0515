@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20SeongHoon&animation=scaleIn&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20SeongHoon&animation=scaleIn&fontSize=70" />
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/112906459/190106804-52e5fcb7-1a44-4259-ab45-3b74d9f8df87.jpg" width="100%" height="50%">
+<img src="https://user-images.githubusercontent.com/112906459/190106804-52e5fcb7-1a44-4259-ab45-3b74d9f8df87.jpg" width="100%" height="20%">
 </div>
 
 
