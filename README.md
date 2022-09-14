@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20SeongHoon&animation=scaleIn&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20SeongHoon&animation=scaleIn&fontSize=60" />
 
-<img src="https://user-images.githubusercontent.com/112906459/190106804-52e5fcb7-1a44-4259-ab45-3b74d9f8df87.jpg" width="100%" height="30%">
+<img src="https://user-images.githubusercontent.com/112906459/190106804-52e5fcb7-1a44-4259-ab45-3b74d9f8df87.jpg" width="200" height="30%">
 
 **<h4>:fire: 개발자의 소양을 갖추기 위해 깃허브에 대해서 계속 공부해 나가고 있는 신입 개발자입니다.</h4>** 
 
