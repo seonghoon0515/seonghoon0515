@@ -1,9 +1,7 @@
 ## Hi there! I'm SeongHoon 
-:fire: **개발자의 소양을 갖추기 위해 깃허브에 대해서 계속 공부해 나가고 있는 <span style=color:"blue">신입 개발자</span>입니다.**
-<br>
-:crescent_moon: **현재 스파르타 코딩클럽 국비지원 앱/웹 과정수료를 정상적으로 수료하였으며, 파이썬 및 Sql 관련해서 추가적으로 공부하고 있습니다.
-<br>
-:balloon: **최종적인 목표인 백엔드 개발자가 되기 위해 관련 분야에 대한 알고리즘 공부를 진행중에 있습니다. **
+:fire: **개발자의 소양을 갖추기 위해 깃허브에 대해서 계속 공부해 나가고 있는 <span style="color:blue">신입 개발자</span>입니다.**  
+:crescent_moon: **현재 스파르타 코딩클럽 국비지원 앱/웹 과정수료를 정상적으로 수료하였으며, 파이썬 및 Sql 관련해서 추가적으로 공부하고 있습니다.**  
+:balloon: **최종적인 목표인 백엔드 개발자가 되기 위해 관련 분야에 대한 알고리즘 공부를 진행중에 있습니다.**
 <br>
 
 <div align=center><h3>📚 Language</h3></div>
@@ -18,8 +16,6 @@
  
 <div align=center><h3>📚Tech STACK</h3></div>
 <div align=center>   
-
-  <br>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
