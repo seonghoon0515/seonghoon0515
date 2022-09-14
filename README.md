@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeongHoon%20Choi&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeongHoon%20Choi&animation=twinking&fontSize=70" />
 
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
