@@ -33,10 +33,10 @@
   <img src="https://img.shields.io/badge/github-F05032?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
-
-<div align=center>
+<br>
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoon0515)](https://github.com/seonghoon0515/github-readme-stats)
-</div>
+
 
 
 
