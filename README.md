@@ -1,9 +1,9 @@
 ## Hi there! I'm SeongHoon 
-I am studying Github and learning the contents one by one. 
+:fire: **개발자의 소양을 갖추기 위해 깃허브에 대해서 계속 공부해 나가고 있는 <span style=color:"blue">신입 개발자</span>입니다.**
 <br>
-I completed the web/app government subsidy course at Sparta Coding Club.
+:crescent_moon: **현재 스파르타 코딩클럽 국비지원 앱/웹 과정수료를 정상적으로 수료하였으며, 파이썬 및 Sql 관련해서 추가적으로 공부하고 있습니다.
 <br>
-My ultimate goal is to become a backend developer.
+:balloon: **최종적인 목표인 백엔드 개발자가 되기 위해 관련 분야에 대한 알고리즘 공부를 진행중에 있습니다. **
 <br>
 
 <div align=center><h3>📚 Language</h3></div>
