@@ -1,5 +1,6 @@
 
 <div align=center><h1>:star: Hi there! I'm SeongHoon :star:</h1></div>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20Seonghoon Github&fontSize=90" />
 
 ![drink](https://user-images.githubusercontent.com/112906459/190070116-6e5c2738-e21a-4551-9fe1-8ec889431bf9.jpg)
 
