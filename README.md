@@ -1,4 +1,4 @@
-#:star:Hi there! I'm SeongHoon:star:
+:star: # Hi there! I'm SeongHoon
 ![drink](https://user-images.githubusercontent.com/112906459/190070116-6e5c2738-e21a-4551-9fe1-8ec889431bf9.jpg)
 
 **<h3>:fire:개발자의 소양을 갖추기 위해 깃허브에 대해서 계속 공부해 나가고 있는 신입 개발자입니다.</h3>** 
