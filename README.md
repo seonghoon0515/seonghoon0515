@@ -1,7 +1,7 @@
 
 <div align=center><h1>:star: Hi there! I'm SeongHoon :star:</h1></div>
 
-![drink](https://user-images.githubusercontent.com/112906459/190070116-6e5c2738-e21a-4551-9fe1-8ec889431bf9.jpg)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 **<h4>:fire: 개발자의 소양을 갖추기 위해 깃허브에 대해서 계속 공부해 나가고 있는 신입 개발자입니다.</h4>** 
 
