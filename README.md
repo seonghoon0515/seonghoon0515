@@ -16,7 +16,7 @@ My ultimate goal is to become a backend developer.
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  
-<div align=center><h3>📚 STACK</h3></div>
+<div align=center><h3>📚Tech STACK</h3></div>
 <div align=center>   
 
   <br>
