@@ -40,5 +40,4 @@
 
 ![seonghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoon0515&show_icons=true&theme=merko)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoon0515)](https://github.com/seonghoon0515/github-readme-stats)
-[![seonghoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seonghoon0515)](https://github.com/seonghoon0515/github-readme-stats)
 
