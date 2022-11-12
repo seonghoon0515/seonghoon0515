@@ -10,7 +10,7 @@
 
 **<h3>:peach: 현재 스파르타 코딩클럽 App/Web과정을 정상적으로 수료 후, JAVA, SQL에 대해 추가적으로 공부중입니다.</h3>**
 
-**<h3>:balloon: 백엔드 개발자가 되기 위한 Spring 관련지식에 대해 꾸준히 공부하고 있습니다.</h3>** 
+**<h3>:balloon: 백엔드 개발자가 되기 위한 Spring 프레임워크에 대해 반복학습중입니다.</h3>** 
 
 
 <div align=center><h2>📚 Language</h2></div>
