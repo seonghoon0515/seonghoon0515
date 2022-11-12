@@ -1,5 +1,6 @@
+<dive align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20SeongHoon&animation=scaleIn&fontSize=75" />
-
+</div>
 <div align=center>
 <img src="https://previews.123rf.com/images/vladgrin/vladgrin1910/vladgrin191000024/130889374-programming-web-banner-best-programming-languages-technology-process-of-software-development.jpg" width="100%" height="10%">
 </div>
