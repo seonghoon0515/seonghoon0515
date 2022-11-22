@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  
   <img src="https://img.shields.io/badge/github-F05032?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=blue">
+  <img src="https://img.shields.io/badge/spring-ED2761?style=for-the-badge&logo=spring&logoColor=black">
   <br>
 </div>
 <br>
